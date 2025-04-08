@@ -2,4 +2,4 @@ type: rest
 externalId: extractor-timeseries-source
 host: ice-cream-factory.inso-internal.cognite.ai
 scheme: https
-port: 443tou
+port: 443
