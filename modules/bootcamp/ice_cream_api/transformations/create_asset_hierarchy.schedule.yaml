@@ -1,3 +1,0 @@
-externalId: tr-create_asset_hierarchy
-interval: '*/15 * * * *'
-isPaused: true
