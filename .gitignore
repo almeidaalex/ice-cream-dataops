@@ -107,3 +107,6 @@ dmypy.json
 .env
 
 .DS_Store
+
+# CDF
+function_local_venvs/
